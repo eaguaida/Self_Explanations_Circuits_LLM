@@ -23,4 +23,4 @@ In human terms, this could be like reducing impulsive behaviors. For example, if
 
 We question our future decisions every time. If we want agents aligned to humans, we want them to question their decisions as well.
 
-Anyway, this is just an initial idea! But I think that something that differentiates us from other species is our ability to explain most of the decisions we plan to make and to question ourselves about them.
+Anyway, this is just an initial idea! But I think that **_something_** that differentiates us from other species is our ability to explain most of the decisions we plan to make and to question ourselves about them.
